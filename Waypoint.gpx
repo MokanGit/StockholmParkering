@@ -1,0 +1,2863 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx version="1.1" creator="GDAL 2.4.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="59.256592381313851" minlon="17.845203403901493" maxlat="59.402225084503293" maxlon="18.116535856144310"/></metadata>
+<wpt lat="59.318272462645623" lon="18.026863532423931">
+  <name>Högalidsgatan 41</name>
+  <cmt>Servicetid tisdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01743</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.290964835202601" lon="18.097422723679319">
+  <name>Paternostervägen 14</name>
+  <cmt>Servicetid tisdag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02174</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.295468915386039" lon="18.085266894305114">
+  <name>Burspråksvägen 7</name>
+  <cmt>Servicetid torsdag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02111</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.331357884465831" lon="18.047410792726318">
+  <name>Kungsgatan 79</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02167</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.308171562305866" lon="18.089990483455288">
+  <name>Katarina Bangata 77</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02014</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.337710711650196" lon="18.085754857042044">
+  <name>Skeppargatan 53A</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01929</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.335682571761403" lon="18.03209619661104">
+  <name>Alströmergatan 8</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02197</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.33149972718472" lon="18.037213919629721">
+  <name>Polhemsgatan 30</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02000</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.318100040267574" lon="18.036586916764652">
+  <name>Högalidsgatan 42A</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01885</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.334533662126049" lon="18.076531598076645">
+  <name>Riddargatan 7A</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01581</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.334607768815864" lon="18.085871914691342">
+  <name>Storgatan 27</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01774</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.326532580588271" lon="18.020041995296232">
+  <name>Fyrverkarbacken 20</name>
+  <cmt>Servicetid torsdag 00:00 - 06:00 utom under tiden udda veckor  1 maj - 31 oktober</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-05343</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.294387154549483" lon="18.076920363332057">
+  <name>Konstgjutarvägen 24</name>
+  <cmt>Servicetid fredag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02130</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.318980326852312" lon="18.034545741746975">
+  <name>Heleneborgsgatan 44B</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01735</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.348668742590291" lon="18.10968779626544">
+  <name>&lt;Adress saknas&gt;</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01725</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.352419129100234" lon="18.062203652278267">
+  <name>Ruddammsvägen 37</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01783</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.336973616164549" lon="17.945669157165884">
+  <name>Spannvägen 19</name>
+  <cmt>Servicetid fredag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02215</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.339053735626266" lon="18.068208977606862">
+  <name>Birger Jarlsgatan 36</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01436</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.3461805350085" lon="18.041061840254624">
+  <name>Dalagatan 86H</name>
+  <cmt>Servicetid tisdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01682</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.345493439193383" lon="18.096335744095143">
+  <name>Brantingsgatan 32</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01870</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.336290449356355" lon="18.081380773959573">
+  <name>Jungfrugatan 7</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01714</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.334321478218357" lon="18.083127815324453">
+  <name>Skeppargatan 25B</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01931</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.344707768399502" lon="18.071184904757157">
+  <name>Danderydsgatan 28</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01973</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.314155283055214" lon="18.07846983605744">
+  <name>Kocksgatan 23</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01921</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.354428669269964" lon="18.098243532005093">
+  <name>Jägmästargatan 14</name>
+  <cmt>Servicetid torsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01914</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.345851589666218" lon="18.084142220368186">
+  <name>Löjtnantsgatan 21</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01762</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.338802932812015" lon="18.076758392979642">
+  <name>Brahegatan 17</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01681</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.319528217614646" lon="18.056112941334529">
+  <name>Gamla Lundagatan 1</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01703</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.329592114563113" lon="18.008403735254465">
+  <name>Runiusgatan 7</name>
+  <cmt>Servicetid tisdag 09:00 - 14:00 utom under tiden jämna veckor  1 maj - 31 oktober</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-05372</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.330964044296294" lon="18.052630695106952">
+  <name>Blekholmsterrassen 14</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel endast besök 0180 2019-01437</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.339738133882314" lon="18.057265162702723">
+  <name>Holländargatan 33</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01620</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.333302859047876" lon="18.094116556187327">
+  <name>Fredrikshovsgatan 6</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01702</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.348122120681076" lon="18.044224710028047">
+  <name>Dannemoragatan 14</name>
+  <cmt>Servicetid tisdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01683</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.308970637295808" lon="18.062573087665776">
+  <name>Ringvägen 56</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01998</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.328041652526622" lon="18.035466691900705">
+  <name>Polhemsgatan 4</name>
+  <cmt>Servicetid fredag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02082</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.338877761203044" lon="18.010798425993034">
+  <name>Strandbergsgatan 59</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02143</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.339337863048549" lon="18.070019179671309">
+  <name>Engelbrektsgatan 11</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01881</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.343677000512145" lon="18.076629107382569">
+  <name>Floragatan 22</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01724</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.342988767554147" lon="18.028373695683065">
+  <name>Karlbergsvägen 83A</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02096</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.339860193925546" lon="18.048390674073062">
+  <name>Observatoriegatan 21</name>
+  <cmt>Servicetid tisdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01775</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.334205865877358" lon="18.033947656708481">
+  <name>Fleminggatan 75</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01441</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.334269273581555" lon="18.056191417479937">
+  <name>Vasagatan 48</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01602</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.338064058123415" lon="18.012489347608046">
+  <name>Warfvinges Väg 31</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01977</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.334702795976455" lon="18.059111171281401">
+  <name>Målargatan 7</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01520</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.343516099115568" lon="18.031704109705363">
+  <name>Norrbackagatan 31</name>
+  <cmt>Servicetid måndag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01809</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.310520068387532" lon="18.082639487613992">
+  <name>Gotlandsgatan 75</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-04502</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.344037807874074" lon="18.092958490374407">
+  <name>Erik Dahlbergsgatan 36</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01842</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.329440069256805" lon="18.019015885514182">
+  <name>Lagerlöfsgatan 1</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02092</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.310084685860538" lon="18.085403080001051">
+  <name>Katarina Bangata 51</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01750</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.347015960154955" lon="18.112706957658784">
+  <name>Malmvägen 11</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02270</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.313022882781418" lon="18.069241478108314">
+  <name>Magnus Ladulåsgatan 48</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01773</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.338612726453441" lon="18.036795504477677">
+  <name>Atlasgatan 16</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01761</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.340638873708642" lon="18.030018784447073">
+  <name>Rörstrandsgatan 27</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02017</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.332811271071684" lon="18.017073997327376">
+  <name>Thorildsvägen 1</name>
+  <cmt>Servicetid fredag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02070</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.308172053742737" lon="18.078182022275758">
+  <name>Ringvägen 129</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01999</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.333957508034118" lon="18.026510378996299">
+  <name>Sankt Göransgatan 85</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01795</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.318187933753052" lon="18.074736585950458">
+  <name>Mosebacke Torg 7 - 3</name>
+  <cmt>Servicetid onsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02003</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.317611494522964" lon="18.052973118269456">
+  <name>Hornsgatan 69</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01479</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.344049421378166" lon="18.052412910772905">
+  <name>Surbrunnsgatan 51</name>
+  <cmt>Servicetid onsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01924</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.335351003225654" lon="18.036121501250406">
+  <name>Inedalsgatan 15</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-05346</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.347183961079892" lon="18.046650199260359">
+  <name>Norrtullsgatan 53</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01684</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.306765766818259" lon="18.080467867300413">
+  <name>Östgötagatan 80</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01857</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.306233420476396" lon="18.068859903815714">
+  <name>Eriksdalsgatan 44</name>
+  <cmt>Servicetid onsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02032</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.306233420476396" lon="18.068859903815714">
+  <name>Eriksdalsgatan 42</name>
+  <cmt>Servicetid onsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02032</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.356516336885242" lon="18.100994399500728">
+  <name>Dianavägen 19</name>
+  <cmt>Servicetid måndag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01737</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.330382072757004" lon="18.030000444134231">
+  <name>Sankt Eriksgatan 15</name>
+  <cmt>Servicetid måndag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-05338</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.33829333457011" lon="18.013955055523486">
+  <name>Sankt Göransgatan 157T</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01793</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.331661834442365" lon="18.069725383969622">
+  <name>Västra Trädgårdsgatan 6</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01603</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.343245246303141" lon="18.03731401080649">
+  <name>Falugatan 7</name>
+  <cmt>Servicetid måndag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01726</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.337047597243412" lon="18.021065945055366">
+  <name>Stadshagsplan 1</name>
+  <cmt>Servicetid tisdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01807</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.291940685619352" lon="18.009126082897595">
+  <name>Västbergavägen 24</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-03493</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.338399105357659" lon="18.006984898424037">
+  <name>Lindhagensgatan 132</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01819</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.33579401783048" lon="18.055388904732585">
+  <name>Barnhusgatan 16</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01428</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.288667574889658" lon="18.09053215747501">
+  <name>&lt;Adress saknas&gt;</name>
+  <cmt>Servicetid torsdag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02179</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.336768553837267" lon="18.020734833701848">
+  <name>Stadshagsplan 1</name>
+  <cmt>Servicetid fredag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02074</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.319015503858814" lon="18.075296017636497">
+  <name>Katarinavägen 15</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02170</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.313118563299973" lon="18.081176808335325">
+  <name>Bondegatan 36</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01749</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.31350222981802" lon="18.01091833279277">
+  <name>Grenljusbacken 26</name>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02113</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.33205954468945" lon="18.032730183507269">
+  <name>Drottningholmsvägen 1</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02119</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.34898905432533" lon="18.050637924395126">
+  <name>Sveavägen 135</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02053</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.339248605156584" lon="18.066903261862063">
+  <name>Regeringsgatan 94</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01573</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.3376930783528" lon="18.056493872448698">
+  <name>Kammakargatan 44</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01486</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.294300292232663" lon="17.934142839498239">
+  <name>Bredängstorget 30</name>
+  <desc>Reserverad p-plats motorcykel 0180 2018-04768</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.318151363475941" lon="18.076634321043734">
+  <name>Fiskargatan 9</name>
+  <cmt>Servicetid onsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02030</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.361606449101409" lon="17.872468491988066">
+  <name>Vittangiplan 12</name>
+  <desc>Reserverad p-plats motorcykel 0180 2018-04769</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.339104138447894" lon="18.096995108795618">
+  <name>Valhallavägen 172</name>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02343</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.323387851252669" lon="18.002954798610219">
+  <name>Primusgatan 73</name>
+  <cmt>Servicetid onsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01936</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.341571901743954" lon="18.049493501838917">
+  <name>Upplandsgatan 47</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01905</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.345095342543772" lon="18.03126725027202">
+  <name>Norra Stationsgatan 95A</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01950</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.316207288817189" lon="18.035389150572165">
+  <name>Hornsbruksgatan 21</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02268</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.33692996437108" lon="18.067477956217679">
+  <name>Regeringsgatan 72</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01572</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.32100445882422" lon="18.048822747037388">
+  <name>&lt;Adress saknas&gt;</name>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02341</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.317647145079341" lon="18.034258857800765">
+  <name>Borgargatan 4</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01844</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.299435905800109" lon="18.041764479774479">
+  <name>Ottsjövägen 1</name>
+  <cmt>Servicetid måndag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-05280</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.337601014993226" lon="18.064573900722287">
+  <name>Malmskillnadsgatan 49</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01525</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.312682419473951" lon="18.085029529547576">
+  <name>Renstiernas Gata 36</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01574</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.33514343857528" lon="18.001190014381237">
+  <name>Lidnersgatan 6</name>
+  <cmt>Servicetid fredag 09:00 - 14:00 utom under tiden udda veckor  1 maj - 31 oktober</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02161</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.323502476208112" lon="17.940701747057211">
+  <name>Höglandstorget 10</name>
+  <cmt>Servicetid tisdag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01386</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.281640997124143" lon="18.11653585614431">
+  <name>Holmögaddsvägen 17</name>
+  <cmt>Servicetid torsdag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02115</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.348511866484898" lon="18.111681275326657">
+  <name>Hangövägen 20</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01727</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.345934373208067" lon="18.058560578911052">
+  <name>Tulegatan 39</name>
+  <cmt>Servicetid tisdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01850</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.346000407920762" lon="18.093182529560799">
+  <name>Erik Dahlbergsgatan 47</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01730</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.347808948725195" lon="18.096181538605087">
+  <name>Furusundsgatan 5</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02184</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.345388947105974" lon="18.06864131626585">
+  <name>Baldersgatan 10A</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01641</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.341317554504762" lon="18.048138366612569">
+  <name>Västmannagatan 52</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01653</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.344994717250408" lon="18.05734072630019">
+  <name>Döbelnsgatan 77B</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02122</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.334097371055954" lon="18.075118367247178">
+  <name>Birger Jarlsgatan 8</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01430</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.313772290360397" lon="18.06391214275148">
+  <name>Fatburs Brunnsgata 20</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01622</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.328771696756633" lon="18.042890995688875">
+  <name>Kungsholmstorg 15</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01824</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.343766922662645" lon="18.072320978406953">
+  <name>Engelbrektsgatan 43A</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01884</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.3109698606753" lon="18.056705805645031">
+  <name>Ringvägen 46</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01782</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.333983697461782" lon="18.078921575174487">
+  <name>&lt;Adress saknas&gt;</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02065</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.349917121245674" lon="18.049094168639321">
+  <name>Sveavägen 143</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01768</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.333011295470534" lon="18.033377428223286">
+  <name>Sankt Göransgatan 53</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01797</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.332574621136644" lon="18.090605067164091">
+  <name>Riddargatan 51</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02150</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.354098127849412" lon="18.092877020570743">
+  <name>Älvkarleövägen 27</name>
+  <cmt>Servicetid torsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01867</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.348384025972493" lon="18.048906622161887">
+  <name>Hagagatan 48</name>
+  <cmt>Servicetid tisdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01712</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.312777675797648" lon="18.025225334576547">
+  <name>Mejerivägen 9</name>
+  <cmt>Servicetid onsdag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02134</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.341507375223514" lon="18.097260851465201">
+  <name>Banérgatan 91</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01753</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.313810108348335" lon="18.088406471068208">
+  <name>Klippgatan 16</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01754</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.340850920003078" lon="18.084000648311346">
+  <name>Sibyllegatan 46</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02050</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.312429674875062" lon="18.105728291591547">
+  <name>&lt;Adress saknas&gt;</name>
+  <cmt>Servicetid tisdag 09:00-14:00 1/12 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01731</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.333086854315219" lon="17.977975033210367">
+  <name>Gustavslundsvägen 171</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-05004</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.334419469288662" lon="18.065559175093306">
+  <name>Malmskillnadsgatan 27</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01527</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.336797927222584" lon="18.078885784632465">
+  <name>Nybrogatan 43</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel endast besök 0180 2020-00471</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.316603342061789" lon="18.054111481571304">
+  <name>Krukmakarbacken 4A</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01825</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.31840672712174" lon="18.043713831646642">
+  <name>Lundagatan 44</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02077</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.31657373818804" lon="18.038351335499318">
+  <name>Hornsbruksgatan 6</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01910</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.345326615702746" lon="18.066871171149497">
+  <name>Östermalmsgatan 12</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02055</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.33580212891988" lon="18.031124374053309">
+  <name>Alströmergatan 12</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02138</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.345238922187022" lon="18.059248102593315">
+  <name>Tulegatan 35</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01851</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.342813875760683" lon="18.042031291067662">
+  <name>Karlbergsvägen 36A</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01510</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.344239177836826" lon="18.062248413555199">
+  <name>Jarlaplan 4A</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02016</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.309776245784668" lon="18.082230213002209">
+  <name>Södermannagatan 52</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02027</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.315256713479179" lon="18.077140142034004">
+  <name>Tjärhovsgatan 18</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01920</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.336032159290802" lon="18.05220062202255">
+  <name>Wallingatan 35</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01606</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.342192770935021" lon="18.02819132089294">
+  <name>Tomtebogatan 40B</name>
+  <cmt>Servicetid torsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02051</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.310840220114578" lon="18.086659689998729">
+  <name>Malmgårdsvägen 53A</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01625</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.348536441699224" lon="18.110701707080882">
+  <name>Hangövägen 18</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01722</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.339799720058529" lon="18.060628783075543">
+  <name>Tegnérgatan 16</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01592</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.341476873014919" lon="18.079355942766306">
+  <name>Östermalmsgatan 62</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02154</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.338436996706001" lon="18.040140794033146">
+  <name>Torsgatan 27</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01818</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.345249058009109" lon="18.053661545620066">
+  <name>Sveavägen 83</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02142</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.34590280472667" lon="18.039315520304772">
+  <name>Hälsingegatan 39</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01906</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.326840182931015" lon="18.047194357107401">
+  <name>Norr Mälarstrand 18</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02090</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.347878315463305" lon="18.043397085588229">
+  <name>Upplandsgatan 94</name>
+  <cmt>Servicetid onsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01917</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.331260202082824" lon="18.036880167965112">
+  <name>Polhemsgatan 30</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01938</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.299506594409038" lon="18.015127775716653">
+  <name>Västberga Allé 1</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02201</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.343385569913323" lon="18.061578730242168">
+  <name>Rehnsgatan 5</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02081</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.345557503308299" lon="18.037503561868828">
+  <name>Gävlegatan 10</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02182</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.333650879212975" lon="18.045794243193505">
+  <name>Scheelegatan 36</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01993</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.343339240689311" lon="18.057836671418915">
+  <name>Luntmakargatan 90</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02453</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.344050613727589" lon="18.086980671012366">
+  <name>Starrängsringen 15</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02031</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.327214156624684" lon="18.021433228805801">
+  <name>&lt;Adress saknas&gt;</name>
+  <cmt>Servicetid torsdag 00:00 - 06:00 utom under tiden udda veckor  1 maj - 31 oktober</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-05344</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.314795596976161" lon="18.078653820092242">
+  <name>Folkungagatan 78</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01443</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.333179978445088" lon="18.105717827801154">
+  <name>Dag Hammarskjölds Väg 26</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-04875</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.292594033014353" lon="17.983718743164271">
+  <name>Inteckningsvägen 32</name>
+  <cmt>Servicetid fredag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02207</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.328424369156693" lon="18.047913320598326">
+  <name>Hantverkargatan 15</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02098</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.333086677090257" lon="18.029553447544899">
+  <name>Fridhemsgatan 30</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01723</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.334721414587293" lon="18.065889093536867">
+  <name>Malmskillnadsgatan 46</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01526</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.33744834583981" lon="18.059650008205345">
+  <name>Adolf Fredriks Kyrkogata 8 - Wallingatan 1</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01477</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.327232757403429" lon="18.011597521438873">
+  <name>Scheffersgatan 9</name>
+  <cmt>Servicetid fredag 09:00 - 14:00 utom under tiden jämna veckor  1 maj - 31 oktober</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02078</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.340998066889533" lon="18.065943451055585">
+  <name>&lt;Adress saknas&gt;</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01786</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.32479569904244" lon="18.0028814086766">
+  <name>Essinge Brogata 39</name>
+  <cmt>Servicetid tisdag 09:00 - 14:00 utom under tiden 15 juni - 15 augusti</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01698</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.336232783971525" lon="18.051149721994641">
+  <name>Kammakargatan 72</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01509</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.324466826402883" lon="18.004443131737155">
+  <name>&lt;Adress saknas&gt;</name>
+  <cmt>Servicetid onsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01927</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.331921123843827" lon="18.090655752252676">
+  <name>Strandvägen 41</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01813</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.346153654626335" lon="18.044475824010902">
+  <name>Vanadisvägen 26A</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01893</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.337203714268306" lon="18.053853572925565">
+  <name>Upplandsgatan 9B</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01600</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.337564401165942" lon="18.052173434120071">
+  <name>Tegnérgatan 40</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01591</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.319514919441403" lon="18.058966296983982">
+  <name>Tavastgatan 31</name>
+  <cmt>Servicetid onsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01922</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.340668146913984" lon="18.059893406583292">
+  <name>Rådmansgatan 41</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01780</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.315065509371038" lon="18.061204740211728">
+  <name>Högbergsgatan 72</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01962</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.336060235684094" lon="18.091126660129756">
+  <name>Narvavägen 26</name>
+  <cmt>Servicetid måndag 00:00-06:00 1/12 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01812</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.340514772899908" lon="18.054298009005997">
+  <name>Kungstensgatan 36</name>
+  <cmt>Servicetid onsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02005</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.344367437786602" lon="18.06029027982752">
+  <name>Tulegatan 29</name>
+  <cmt>Servicetid tisdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01855</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.293878450564236" lon="18.086295685087677">
+  <name>Pastellvägen 3</name>
+  <cmt>Servicetid måndag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-03675</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.309261289019055" lon="18.065047067297602">
+  <name>Blekingegatan 5</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01656</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.336032933826523" lon="17.986126210139755">
+  <name>Minnebergsvägen 4</name>
+  <cmt>Servicetid måndag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02151</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.401628782577227" lon="17.945840767538076">
+  <name>Färögatan 37</name>
+  <cmt>Servicetid fredag 00:00-08:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02837</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.333547124976413" lon="18.085946912278931">
+  <name>Styrmansgatan 19</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01814</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.314397354370655" lon="18.084872621440567">
+  <name>Åsögatan 163</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02192</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.334295726210335" lon="18.083336815804184">
+  <name>Skeppargatan 26</name>
+  <cmt>Servicetid onsdag 00:00 - 06:00 utom under tiden 15 juni - 15 augusti</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01989</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.339617726204203" lon="18.033546889943405">
+  <name>Birkagatan 10</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01650</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.339478358020052" lon="18.031547332786605">
+  <name>Drejargatan 1</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01687</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.317677185662298" lon="18.066065071826273">
+  <name>Bellmansgatan 19</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01869</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.301185433798835" lon="18.006338603239264">
+  <name>Svandammsvägen 43</name>
+  <cmt>Servicetid måndag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2020-00300</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.304036755836002" lon="18.09296340343278">
+  <name>Hammarby Allé 91</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01907</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.344753231740711" lon="18.047154291668878">
+  <name>Frejgatan 75</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02814</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.31157892230528" lon="18.07802650005144">
+  <name>Östgötagatan 42</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01951</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.307006455449063" lon="18.08211042606159">
+  <name>Bohusgatan 26</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01679</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.312070710209049" lon="18.057888075407174">
+  <name>Södermalmsallén 10</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01584</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.335750429595407" lon="18.05093565356573">
+  <name>Torsgatan 10</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01594</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.304416614368961" lon="18.029659053536069">
+  <name>Sjöviksbacken 27</name>
+  <cmt>Servicetid tisdag 08:00-16:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01799</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.334351302696817" lon="18.067686618010026">
+  <name>Regeringsgatan 57 - 59</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01571</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.327916467130891" lon="18.005947162010411">
+  <name>Atterbomsvägen 42</name>
+  <cmt>Servicetid måndag 09:00 - 14:00 utom under tiden udda veckor  1 april - 31 oktober</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01757</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.322991607696352" lon="18.004883681749931">
+  <name>Patentgatan 4</name>
+  <cmt>Servicetid onsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02001</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.329355206431593" lon="18.039317102873635">
+  <name>Pilgatan 17</name>
+  <cmt>Servicetid tisdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01778</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.31241456985866" lon="18.06469883175307">
+  <name>Magnus Ladulåsgatan 49</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01767</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.338316768618526" lon="18.025529591033497">
+  <name>Kungsholms Strand 163</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02093</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.343007620570752" lon="18.072414531772022">
+  <name>Östermalmsgatan 37</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02054</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.324548752735417" lon="18.006672210283803">
+  <name>Strålgatan 4</name>
+  <cmt>Servicetid onsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01988</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.312672652583352" lon="18.055634412998725">
+  <name>Sköldgatan 11</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01802</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.306267585147879" lon="18.087650666246816">
+  <name>Tullgårdsgatan 22</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01663</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.315027788453762" lon="18.054393688072505">
+  <name>Maria Skolgata 48A</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01815</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.337688802374338" lon="18.037777304851097">
+  <name>Atlasmuren 12</name>
+  <cmt>Servicetid fredag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-05340</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.345477219591452" lon="18.110984768992708">
+  <name>Rökubbsgatan 6</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01670</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.330556055983379" lon="18.078242880407249">
+  <name>Nybrokajen 5</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01535</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.30748560001993" lon="18.068300135991244">
+  <name>Råggatan 5</name>
+  <cmt>Servicetid måndag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01800</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.329873529710348" lon="18.001608281102943">
+  <name>Stagneliusvägen 51</name>
+  <cmt>Servicetid fredag 00:00 - 06:00 utom under tiden udda veckor  1 maj - 31 oktober</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02145</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.30671876133782" lon="18.065505541301363">
+  <name>Eriksdalsgatan 20</name>
+  <cmt>Servicetid onsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01972</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.342240201329432" lon="18.065157288839536">
+  <name>Rådmansgatan 27</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01779</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.351088586982613" lon="18.067355387956809">
+  <name>Drottning Kristinas Väg 46</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2018-03299</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.33043829505722" lon="18.028884716916863">
+  <name>Karlsviksgatan 12</name>
+  <cmt>Servicetid tisdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01748</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.309321257605653" lon="18.071340057019118">
+  <name>Allhelgonagatan 2</name>
+  <cmt>Servicetid torsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01865</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.337292138270129" lon="18.100578319119112">
+  <name>Gyllenstiernsgatan 11A</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02100</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.343605620712999" lon="18.042692954756724">
+  <name>Frejgatan 54</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01965</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.339744405719131" lon="18.065088008047159">
+  <name>Johannesgatan 28</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01485</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.315504810097416" lon="18.092422517924703">
+  <name>Folkungagatan 152</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01444</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.319193668342962" lon="18.025109945677471">
+  <name>Anders Reimers Väg 14</name>
+  <cmt>Servicetid fredag 09:00 - 14:00 utom under tiden 15 juni - 15 augusti</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02196</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.342240158203907" lon="18.064902407944661">
+  <name>Rådmansgatan 24</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01781</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.326836464209904" lon="18.047046501361933">
+  <name>Norr Mälarstrand 18</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc> 0180 2020-01010</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.309645877098632" lon="18.089385125521179">
+  <name>Malmgårdsvägen 57A</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01627</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.335701337034699" lon="18.079179393235858">
+  <name>Östermalmstorg 4A</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01570</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.333072888345804" lon="18.062836921984498">
+  <name>Mäster Samuelsgatan 48A</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-03413</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.331951552523421" lon="17.985774509984768">
+  <name>Tranebergs Strand 1</name>
+  <cmt>Servicetid onsdag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-03687</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.318411363154134" lon="18.069288608333462">
+  <name>Sankt Paulsgatan 4A - 9</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01619</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.31090745104504" lon="18.098190700151431">
+  <name>Tegelviksgatan 26</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01816</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.31364501906161" lon="18.079923383975029">
+  <name>Åsögatan 144</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02135</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.341174192990991" lon="18.039977386919347">
+  <name>Gästrikegatan 10</name>
+  <cmt>Servicetid onsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02028</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.332380070185486" lon="18.057856533480784">
+  <name>Vasagatan 28 - 34</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01601</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.332851701106968" lon="18.081029155327862">
+  <name>Kaptensgatan 7</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01628</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.322734495356045" lon="18.069328526104691">
+  <name>Mälartorget 19</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01523</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.333352056494221" lon="17.999990821500308">
+  <name>Hjalmar Söderbergs Väg 18</name>
+  <cmt>Servicetid onsdag 09:00 - 14:00 utom under tiden jämna veckor  1 maj - 31 augusti</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02021</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.31730678411985" lon="18.057466289211938">
+  <name>Torkel Knutssonsgatan 18A</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02141</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.331331081356076" lon="18.030091116666071">
+  <name>Hantverkargatan 82</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01729</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.315948252599867" lon="18.06164183723876">
+  <name>Maria Prästgårdsgata 28</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02158</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.310779998093125" lon="18.078244539647084">
+  <name>Östgötagatan 48A</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01948</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.329772149139323" lon="18.049214428089392">
+  <name>Kungsholms Kyrkoplan 6</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02166</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.344497416822286" lon="18.040630255597332">
+  <name>Hälsingegatan 35</name>
+  <cmt>Servicetid fredag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02099</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.33822237327476" lon="18.04917344525952">
+  <name>Dalagatan 16</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01741</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.355820166881884" lon="18.099343987069862">
+  <name>Artemisgatan 24</name>
+  <cmt>Servicetid fredag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02193</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.340779978138407" lon="18.089437937976058">
+  <name>Valhallavägen 140</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01981</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.313125434427398" lon="18.075111743011664">
+  <name>Åsögatan 113</name>
+  <cmt>Servicetid fredag 00:00 - 06:00 utom under tiden 15 juni - 15 augusti</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02190</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.31857096557254" lon="18.075229163149547">
+  <name>Klevgränd 7</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01751</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.324642569922304" lon="18.008840484528317">
+  <name>Luxgatan 10</name>
+  <cmt>Servicetid torsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01930</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.346087854814741" lon="18.051078219547293">
+  <name>Hagagatan 23A</name>
+  <cmt>Servicetid tisdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01709</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.328857878808897" lon="18.033848487820887">
+  <name>Pontonjärgatan 22</name>
+  <cmt>Servicetid torsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01985</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.323574402776806" lon="18.004784058658661">
+  <name>Luxgatan 25</name>
+  <cmt>Servicetid torsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01932</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.320133911505934" lon="18.060994883370064">
+  <name>Bastugatan 25</name>
+  <cmt>Servicetid tisdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01646</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.332343657469153" lon="18.032856801321532">
+  <name>Drottningholmsvägen 4</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02034</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.337526564556853" lon="18.063191497072658">
+  <name>Luntmakargatan 25 - 27</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2018-01923</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.343279477707547" lon="18.064756813834695">
+  <name>Kungstensgatan 6</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01862</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.346296254250213" lon="18.065076055118823">
+  <name>Odengatan 15</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01537</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.347810707973665" lon="18.050998835356729">
+  <name>Vanadisvägen 3</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01895</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.330266885595194" lon="18.046832439574221">
+  <name>Kungsklippan 18A</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01925</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.345994693066515" lon="17.973928425865076">
+  <name>Ståltrådsvägen 22</name>
+  <cmt>Servicetid torsdag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-03688</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.29097404470707" lon="18.090314199757078">
+  <name>Blåsutvägen 35</name>
+  <cmt>Servicetid tisdag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02104</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.333133549215496" lon="18.014885007036511">
+  <name>Kristinebergsvägen 5</name>
+  <cmt>Servicetid onsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01960</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.346974317397184" lon="18.063395654486325">
+  <name>Surbrunnsgatan 8</name>
+  <cmt>Servicetid torsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02040</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.309253968820414" lon="18.080363561220455">
+  <name>Bjurholmsplan 26</name>
+  <cmt>Servicetid fredag 00:00 - 06:00 utom under tiden 15 juni - 15 augusti</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02185</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.302664908973092" lon="18.088591067897507">
+  <name>Textilgatan 32</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01715</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.329438984499994" lon="18.065245552513549">
+  <name>Jakobsgatan 20</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01484</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.347374741459149" lon="17.883558246762529">
+  <name>Blackebergsplan 1</name>
+  <cmt>Servicetid torsdag 08:00-10:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2018-04767</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.313800301228071" lon="18.07578747679311">
+  <name>Kocksgatan 12</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats cykel 0180 2019-01919</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.317233758135359" lon="18.02871820617176">
+  <name>Bergsundsgatan 12</name>
+  <cmt>Servicetid torsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01872</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.316852789286216" lon="18.074236946530124">
+  <name>Högbergsgatan 30A</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01909</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.325731493382413" lon="18.067207255117015">
+  <name>Storkyrkobrinken 13</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01587</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.328387381641051" lon="18.015470037009553">
+  <name>Rålambsvägen 18</name>
+  <cmt>Servicetid torsdag 00:00 - 06:00 utom under tiden 15 juni - 15 augusti</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01994</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.332766540488777" lon="18.087077494204824">
+  <name>Grev Magnigatan 6B</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01963</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.318617348556884" lon="18.04884464671569">
+  <name>Lundagatan 25</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01686</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.34008126972045" lon="18.046851520254705">
+  <name>&lt;Adress saknas&gt;</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01734</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.335562146467083" lon="18.054142574432159">
+  <name>Barnhusgatan 20</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-04794</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.317860067703563" lon="18.041726156395178">
+  <name>Lundagatan 59</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01817</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.31988815745742" lon="18.062048298605344">
+  <name>Tavastgatan 16</name>
+  <cmt>Servicetid onsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01889</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.314298161984794" lon="18.092778020000132">
+  <name>Ploggatan 1</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01632</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.319308683596411" lon="18.0395220216054">
+  <name>Heleneborgsgatan 14</name>
+  <cmt>Servicetid tisdag 00:00 - 06:00 utom under tiden 15 juni - 15 augusti</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01732</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.294704637886028" lon="18.053856702932823">
+  <name>Bråviksvägen 33</name>
+  <cmt>Servicetid torsdag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02106</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.345157886096182" lon="18.041097755240674">
+  <name>Vanadisvägen 41</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01859</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.334443142036307" lon="17.981593800008305">
+  <name>Tranebergsvägen 48</name>
+  <cmt>Servicetid tisdag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02200</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.31179126120395" lon="18.070036285554743">
+  <name>Möregatan 8</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01942</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.333985418582003" lon="18.065913548862149">
+  <name>Malmskillnadsgatan 42</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01531</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.343517298584395" lon="18.078403491637886">
+  <name>Valhallavägen 100</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01897</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.326320111768574" lon="18.074450624565994">
+  <name>Slottsbacken 10</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01585</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.34282093611013" lon="18.113492904338834">
+  <name>Tegeluddsvägen 76</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-04716</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.332127230568446" lon="18.018866274781534">
+  <name>Lindhagensgatan 49</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01624</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.329560063488671" lon="18.000223520828342">
+  <name>Orvar Odds Väg 7</name>
+  <cmt>Servicetid onsdag 09:00 - 17:00 utom under tiden udda veckor  1 maj - 31 oktober</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01954</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.313766548509292" lon="18.066978987665411">
+  <name>Fatburs Brunnsgata 30</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01840</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.307037938193886" lon="17.989252964909014">
+  <name>Hövdingagatan 42</name>
+  <cmt>Servicetid fredag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02127</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.336878387571041" lon="18.101859186209925">
+  <name>Oxenstiernsgatan 31</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2018-04241</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.349993944950185" lon="18.05635704305427">
+  <name>Roslagsgatan 54</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01796</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.392069604743071" lon="17.897994410988691">
+  <name>Bärkingeplan 23</name>
+  <desc>Reserverad p-plats motorcykel 0180 2018-04864</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.336752028440969" lon="18.050628111668935">
+  <name>Dalagatan 8</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01439</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.318338119594458" lon="18.052668729221281">
+  <name>Brännkyrkagatan 76</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-04278</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.296204005518327" lon="18.077460920241357">
+  <name>Skulptörvägen 12B</name>
+  <cmt>Servicetid onsdag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02177</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.33098932850735" lon="18.004674318824918">
+  <name>Ernst Ahlgrens Väg 2</name>
+  <cmt>Servicetid onsdag 09:00 - 14:00 utom under tiden jämna veckor  1 maj - 31 oktober</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-05345</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.307131827337336" lon="18.029688763897123">
+  <name>Sjöviksvägen 37</name>
+  <cmt>Servicetid fredag 08:00-16:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02147</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.309130592377208" lon="18.080199322086468">
+  <name>Bjurholmsplan 26</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02132</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.303233857533201" lon="18.098400807098827">
+  <name>Maltgatan 1</name>
+  <cmt>Servicetid torsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01935</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.300952428669042" lon="18.0981349076188">
+  <name>Hammarby Fabriksväg 43</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01719</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.317568201567809" lon="18.051396252884423">
+  <name>Hornsgatan 100</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01478</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.304494952596393" lon="18.113825434837459">
+  <name>Skeppsmäklargatan 5B - 5</name>
+  <cmt>Servicetid torsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02025</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.350534319713702" lon="18.058788972916645">
+  <name>Valhallavägen 11</name>
+  <cmt>Servicetid tisdag 00:00-06:00 1/12 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01858</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.315343070333334" lon="18.029341670703023">
+  <name>Bergsunds Strand 29</name>
+  <cmt>Servicetid tisdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-03753</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.342849145343976" lon="18.08338377345423">
+  <name>Valhallavägen 117B</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01899</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.333889360761034" lon="18.089232397362128">
+  <name>Storgatan 38</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01665</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.335498826011154" lon="17.981049755266977">
+  <name>Hunnebergsvägen 11</name>
+  <cmt>Servicetid onsdag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02128</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.292440257124049" lon="18.08691513985789">
+  <name>Pastellvägen 12</name>
+  <cmt>Servicetid fredag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02156</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.352976628387246" lon="18.092518254691093">
+  <name>Krångedevägen 29</name>
+  <cmt>Servicetid fredag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02094</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.336120683110131" lon="18.061484343902162">
+  <name>Olof Palmes Gata 9</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01568</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.341678289679251" lon="18.043653550636165">
+  <name>Hälsingegatan 5</name>
+  <cmt>Servicetid fredag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02181</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.316727302895416" lon="18.061656149451707">
+  <name>Wollmar Yxkullsgatan 16 - 18</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02075</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.340979592582642" lon="18.051434622914808">
+  <name>Vegagatan 1</name>
+  <cmt>Servicetid torsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02052</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.331659913479939" lon="18.04623645462804">
+  <name>Pipersgatan 25 - 27</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01944</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.337808221643435" lon="17.937139248850364">
+  <name>Tunnlandet 15</name>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02219</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.312569445523572" lon="18.076821767510332">
+  <name>Bondegatan 10</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01623</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.341849844940185" lon="18.052132685327191">
+  <name>Norrtullsgatan 9</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02086</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.336610761349043" lon="18.022470210226086">
+  <name>John Bergs Plan 3</name>
+  <cmt>Servicetid måndag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-05347</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.339224514618159" lon="18.054105482446008">
+  <name>Rådmansgatan 70B</name>
+  <cmt>Servicetid torsdag 09:00 - 14:00 utom under tiden 15 juni - 15 augusti</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01987</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.314972429151283" lon="18.084783884772659">
+  <name>Kocksgatan 51</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01923</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.315285294852067" lon="18.03345304192295">
+  <name>Hornsgatan 174</name>
+  <cmt>Servicetid torsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01911</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.348652150309576" lon="18.057645295371952">
+  <name>Roslagsgatan 35 - 37</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01788</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.340965979916199" lon="18.028810146447974">
+  <name>Rörstrandsgatan 36</name>
+  <cmt>Servicetid onsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01934</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.307090656322863" lon="18.070517612610203">
+  <name>Vetegatan 4</name>
+  <cmt>Servicetid onsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01891</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.328461504874326" lon="18.03774702538627">
+  <name>Pontonjärgatan 6</name>
+  <cmt>Servicetid torsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-05337</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.319102410411126" lon="18.037094447012485">
+  <name>Heleneborgsgatan 11A</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01733</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.313760181997566" lon="18.082197443835518">
+  <name>Nytorgsgatan 27</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01861</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.346688554629075" lon="18.098516621596172">
+  <name>Furusundsgatan 14</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02114</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.34876378563898" lon="17.878164537549758">
+  <name>Elias Lönnrots Väg 13</name>
+  <cmt>Servicetid tisdag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2017-10324</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.31503325550792" lon="18.057405113384444">
+  <name>Maria Prästgårdsgata 57</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02066</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.341877641719186" lon="18.039116655780703">
+  <name>Gästrikegatan 17</name>
+  <cmt>Servicetid onsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01964</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.330204239036426" lon="18.026615868370357">
+  <name>Fridhemsgatan 5</name>
+  <cmt>Servicetid måndag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01826</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.304841473911182" lon="18.106669463260918">
+  <name>Lugnets Allé 56A</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01766</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.310788308689432" lon="18.076592279864641">
+  <name>Blekingegatan 63</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2020-00275</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.347999063834429" lon="18.060531077844249">
+  <name>Birger Jarlsgatan 112</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01976</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.345570621968868" lon="18.043938002024532">
+  <name>Västmannagatan 86</name>
+  <cmt>Servicetid måndag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-03495</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.298256796954185" lon="18.076870962466863">
+  <name>Gullmarsvägen 11</name>
+  <cmt>Servicetid torsdag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01903</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.315949293711974" lon="18.080937207891626">
+  <name>Nytorgsgatan 19</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01864</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.347890977208394" lon="18.093690767496373">
+  <name>&lt;Adress saknas&gt;</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01997</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.329601477714171" lon="18.077938071509781">
+  <name>Hovslagargatan 5</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01481</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.313252473512094" lon="18.060634437706124">
+  <name>Fatburs Kvarngata 24</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01882</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.33528594757275" lon="17.998119270945949">
+  <name>&lt;Adress saknas&gt;</name>
+  <cmt>Servicetid tisdag 09:00 - 14:00 utom under tiden udda veckor  1 maj - 31 oktober</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01764</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.348580231959218" lon="18.113156113907138">
+  <name>Hangövägen 35</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01728</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.335369971204933" lon="18.028577899875184">
+  <name>Arbetargatan 33A</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02037</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.336335305787827" lon="18.02523151420171">
+  <name>Igeldammsgatan 14</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01912</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.332535153319014" lon="18.01867174644137">
+  <name>Lindhagensgatan 72 - 74</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-05353</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.337695671750708" lon="18.026754912508213">
+  <name>Svarvargatan 17</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01771</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.319375733716022" lon="18.061783217393927">
+  <name>Brännkyrkagatan 37</name>
+  <cmt>Servicetid torsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01878</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.312403031272815" lon="18.101358704621063">
+  <name>&lt;Adress saknas&gt;</name>
+  <cmt>Servicetid onsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02044</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.344488507412116" lon="18.037674344582452">
+  <name>Rödabergsgatan 1</name>
+  <cmt>Servicetid torsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02012</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.346183853879033" lon="18.06072791275497">
+  <name>Surbrunnsgatan 23</name>
+  <cmt>Servicetid torsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02042</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.317319567539499" lon="18.078209790760518">
+  <name>Katarina Kyrkobacke 7C</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01908</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.342750622008772" lon="18.061843191352146">
+  <name>Tulegatan 10</name>
+  <cmt>Servicetid tisdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01853</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.336433203551024" lon="18.031522048524959">
+  <name>Industrigatan 2A</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01745</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.367482990831355" lon="17.845203403901493">
+  <name>Astrakangatan 12</name>
+  <cmt>Servicetid torsdag 08:00-11:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2018-03552</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.345189907968994" lon="18.084862750213595">
+  <name>Starrängsringen 46</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02033</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.334661566835024" lon="18.038621604693592">
+  <name>Polhemsgatan 37</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-05369</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.344987835307599" lon="18.074166195999435">
+  <name>Valhallavägen 84A</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01902</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.346675586090768" lon="17.974541808310768">
+  <name>Ståltrådsvägen 27</name>
+  <cmt>Servicetid fredag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02216</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.334973898856575" lon="18.013913311687411">
+  <name>Lindhagensgatan 100</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-05442</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.303990970131558" lon="18.090833433394824">
+  <name>Konvojgatan 3 - 5</name>
+  <cmt>Servicetid tisdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01759</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.348954805962848" lon="18.048379895214168">
+  <name>Hagagatan 56</name>
+  <cmt>Servicetid tisdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01711</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.316660087651215" lon="18.050460224348381">
+  <name>Krukmakargatan 42</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01871</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.335438595172462" lon="18.035241821230738">
+  <name>Kronobergsgatan 20</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02009</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.33017793557493" lon="18.041895066205427">
+  <name>Bergsgatan 23 - 44</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01752</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.314177261859037" lon="18.072529328153664">
+  <name>Folkungagatan 43</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01828</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.302510068121379" lon="18.10682294621925">
+  <name>Midskeppsgatan 19</name>
+  <cmt>Servicetid torsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01939</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.335688997226185" lon="17.95215264106055">
+  <name>Abrahamsbergsvägen 15</name>
+  <cmt>Servicetid tisdag 08:00-12:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02205</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.341740462109207" lon="18.062604547225387">
+  <name>Tulegatan 7</name>
+  <cmt>Servicetid tisdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01852</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.333275975425217" lon="18.071544603838493">
+  <name>Norrlandsgatan 2</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2018-01979</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.347811992788699" lon="17.972249754323052">
+  <name>Johannesfredsvägen 47</name>
+  <cmt>Servicetid måndag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02208</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.343587143823868" lon="18.041533561885025">
+  <name>Hälsingegatan 21</name>
+  <cmt>Servicetid fredag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02178</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.345417970848814" lon="18.032408441971288">
+  <name>Torsplan 9</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01827</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.339318841274981" lon="18.004714736407742">
+  <name>Lindhagensgatan 147</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-05351</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.338370300665574" lon="18.022305572905299">
+  <name>Igeldammsgatan 38A</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01913</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.33303876438319" lon="18.04300781994327">
+  <name>Fleminggatan 29</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01442</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.343325583573417" lon="18.113800525527651">
+  <name>Tegeluddsvägen 64 - 70</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01982</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.317496376088307" lon="18.057906218889624">
+  <name>Krukmakargatan 13</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01873</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.33764311884913" lon="18.077965888331704">
+  <name>Linnégatan 18</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01514</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.341290609570258" lon="18.035097873096561">
+  <name>Tomtebogatan 9</name>
+  <cmt>Servicetid torsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02045</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.341215292624099" lon="18.076762805761998">
+  <name>Sturegatan 13</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01588</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.311723131957585" lon="18.05449320269862">
+  <name>Tantogatan 1</name>
+  <cmt>Servicetid onsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01887</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.331096190186045" lon="18.034948128982599">
+  <name>Bergsgatan 61</name>
+  <cmt>Servicetid måndag 00:00 - 06:00 utom under tiden 15 juni - 15 augusti</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01845</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.350634576935484" lon="17.855397744831912">
+  <name>&lt;Adress saknas&gt;</name>
+  <desc>Reserverad p-plats motorcykel 0180 2018-04863</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.329693261635803" lon="18.047538116447253">
+  <name>Parmmätargatan 15</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01777</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.32040106005747" lon="17.988563040334991">
+  <name>Essingetorget 37</name>
+  <cmt>Servicetid tisdag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02112</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.32986122120289" lon="18.069256984521459">
+  <name>Gustav Adolfs Torg 18</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01445</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.314603495117566" lon="18.037692891396741">
+  <name>Lignagatan 13</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01926</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.333577897073766" lon="18.077385500140952">
+  <name>Almlöfsgatan 3</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01426</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.33170744718695" lon="18.081448991726347">
+  <name>Strandvägen 11</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01811</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.353582403491146" lon="18.095740650868017">
+  <name>Untravägen 7</name>
+  <cmt>Servicetid tisdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01856</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.310656402597438" lon="18.072527159285862">
+  <name>Tjurbergsgatan 34</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01918</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.328078503498112" lon="18.045264845226349">
+  <name>Garvargatan 5</name>
+  <cmt>Servicetid torsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01894</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.331992966753312" lon="18.059328605467574">
+  <name>Mäster Samuelsgatan 69</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2018-01977</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.339499124330381" lon="18.013826002122112">
+  <name>Franzéngatan 4</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01886</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.30859718339255" lon="18.076564623982417">
+  <name>Ölandsgatan 42</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02157</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.350392518375948" lon="18.056202177029618">
+  <name>Roslagsgatan 58</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01790</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.343043852630693" lon="18.047459776654481">
+  <name>Karlbergsvägen 18</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01512</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.336882705873549" lon="18.0789550931053">
+  <name>Nybrogatan 43</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01534</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.323805954961983" lon="17.940452235586822">
+  <name>Skaldevägen 6</name>
+  <cmt>Servicetid torsdag 08:00-16:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01387</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.34188691911298" lon="18.069891510767501">
+  <name>Karlavägen 28 - 30</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01915</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.341580418134939" lon="18.035838104749576">
+  <name>Birkagatan 30</name>
+  <cmt>Servicetid tisdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01652</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.315606100854467" lon="18.052791194801298">
+  <name>Wollmar Yxkullsgatan 52A</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02073</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.307814016875916" lon="18.085392881693689">
+  <name>Blecktornsstigen 3</name>
+  <cmt>Servicetid fredag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02129</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.33817393530699" lon="18.082421612240854">
+  <name>Kommendörsgatan 25</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01756</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.344017651288318" lon="18.045239756373306">
+  <name>Västmannagatan 73</name>
+  <cmt>Servicetid måndag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01633</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.275141976172179" lon="18.082504716087286">
+  <name>Hägervägen 3</name>
+  <cmt>Servicetid torsdag 08:00-16:00 1/4 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2014-01347</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.256592381313851" lon="18.114433008727687">
+  <name>Bagarfruvägen 59</name>
+  <cmt>Servicetid torsdag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2018-04861</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.343658433266413" lon="18.035518068044503">
+  <name>Torsgatan 63</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01596</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.332208747046003" lon="18.072513559669598">
+  <name>Näckströmsgatan 2 - 4</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01533</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.316538484220686" lon="18.027771028801034">
+  <name>Lindvallsgatan 13</name>
+  <cmt>Servicetid tisdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-04914</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.333523613619732" lon="18.065290078988255">
+  <name>Sveavägen 10B</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2018-01980</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.338747784327488" lon="18.085703096051866">
+  <name>&lt;Adress saknas&gt;</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01916</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.324588330588291" lon="18.066988376140369">
+  <name>Munkbron 11</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01532</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.33198191573176" lon="18.072217708301544">
+  <name>Kungsträdgårdsgatan 14</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01513</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.30725262131886" lon="18.027296299618438">
+  <name>Ingenjörsvägen 37</name>
+  <cmt>Servicetid onsdag 08:00-16:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01860</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.333116674449855" lon="18.102223120671965">
+  <name>Dag Hammarskjölds Väg 7</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-04877</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.342505748578155" lon="18.039948145820592">
+  <name>Karlbergsvägen 33</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01511</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.334090688894136" lon="18.016765647433527">
+  <name>&lt;Adress saknas&gt;</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01661</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.302591529038153" lon="18.10186829203391">
+  <name>Hammarby Allé 161</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02176</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.34051012832677" lon="18.093478299922534">
+  <name>Valhallavägen 157</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01978</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.332063601871731" lon="18.014171420079844">
+  <name>Geijersvägen 6</name>
+  <cmt>Servicetid torsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01896</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.334896153557466" lon="18.013428807228152">
+  <name>Lindhagensgatan 97</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-05356</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.338346297851743" lon="18.089758177361666">
+  <name>Karlaplan 9A</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-05327</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.312737910022015" lon="18.091921348068329">
+  <name>Ploggatan 20</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01808</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.347710960997134" lon="18.107209462664873">
+  <name>Tegeluddsvägen 29</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01984</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.308884088535272" lon="18.014985683988069">
+  <name>Nybohovsbacken 63</name>
+  <cmt>Servicetid tisdag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02153</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.340734562186611" lon="18.064237742610285">
+  <name>Tegnérgatan 2C</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01593</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.314231806826918" lon="18.086456651758152">
+  <name>Borgmästargatan 10B</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01874</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.340498644950671" lon="18.041024576884599">
+  <name>Odengatan 98</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01536</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.296500356448327" lon="18.054868079314875">
+  <name>Borensvägen 31</name>
+  <cmt>Servicetid tisdag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02105</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.328485565243355" lon="18.007192427373969">
+  <name>Stagneliusvägen 33</name>
+  <cmt>Servicetid fredag 09:00 - 14:00 utom under tiden udda veckor  1 maj - 31 oktober</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02071</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.314536683683102" lon="18.090588699851534">
+  <name>Åsögatan 188</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02188</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.331171995049672" lon="18.049516354575907">
+  <name>Kungsbro Strand 29</name>
+  <cmt>Servicetid fredag 00:00 - 06:00 utom under tiden 15 juni - 15 augusti</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-03674</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.339792149395862" lon="18.095792288456707">
+  <name>Valhallavägen 169</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01660</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.336399852444842" lon="18.095447008844957">
+  <name>Karlavägen 98</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01961</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.310740931300074" lon="18.06948707544921">
+  <name>Hallandsgatan 36</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01876</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.344181550842436" lon="18.068756070924533">
+  <name>Uggelviksgatan 2E</name>
+  <cmt>Servicetid måndag 00:00 - 06:00 utom under tiden 15 juni - 15 augusti</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01763</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.31773358883369" lon="18.05975596982093">
+  <name>Krukmakargatan 1</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01958</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.332420906916695" lon="18.018290184358602">
+  <name>Lindhagensgatan 51</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01621</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.348600502060236" lon="18.098475070234187">
+  <name>Smedsbacksgatan 26</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01776</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.337038574395621" lon="18.057256492667378">
+  <name>Wallingatan 9</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01605</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.298863270072893" lon="18.031433935507295">
+  <name>Svärdlångsvägen 56</name>
+  <cmt>Servicetid måndag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-04193</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.328115071134228" lon="18.050182177179867">
+  <name>Hantverkargatan 4</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02172</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.340997922561868" lon="18.090291886527236">
+  <name>Valhallavägen 147</name>
+  <cmt>Servicetid onsdag 00:00-06:00 1/12 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01979</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.3300691301489" lon="18.078813515507466">
+  <name>Hovslagargatan 5B</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01482</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.331230387597991" lon="18.044210959845159">
+  <name>Scheelegatan 7A</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01995</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.320643457571933" lon="18.05647831676254">
+  <name>Torkel Knutssonsgatan 2</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02068</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.344025446232877" lon="18.110383961802242">
+  <name>Sandhamnsgatan 31</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02148</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.338436998376707" lon="18.008402344096243">
+  <name>Pär Lagerkvists Gata 4</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02084</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.333486684599883" lon="18.091825326096515">
+  <name>&lt;Adress saknas&gt;</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01755</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.339664942437999" lon="18.061185319705732">
+  <name>Luntmakargatan 46</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01518</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.318248106962528" lon="18.031518474584875">
+  <name>Högalidsgatan 23</name>
+  <cmt>Servicetid onsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02019</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.331404502534618" lon="17.998126552089339">
+  <name>Snoilskyvägen 38</name>
+  <cmt>Servicetid tisdag 09:00 - 14:00 utom under tiden udda veckor  1 maj - 31 oktober</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01804</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.352443003313986" lon="18.095824776910561">
+  <name>Lanforsvägen 23</name>
+  <cmt>Servicetid onsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01956</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.353049131553703" lon="18.09582666121214">
+  <name>Motalavägen 5</name>
+  <cmt>Servicetid måndag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01685</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.307798667412094" lon="18.079082708960382">
+  <name>Rutger Fuchsgatan 1</name>
+  <cmt>Servicetid tisdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01785</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.316273903322191" lon="18.029246107397611">
+  <name>Lindvallsplan 10</name>
+  <cmt>Servicetid torsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01928</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.341031056273685" lon="18.111229754092957">
+  <name>Sandhamnsgatan 61</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02079</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.329821289066842" lon="18.059645867541889">
+  <name>Centralplan 5</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2018-01891</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.343000087306983" lon="18.059565335376554">
+  <name>Döbelnsgatan 59</name>
+  <cmt>Servicetid fredag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02067</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.328413126042989" lon="18.013840211783947">
+  <name>Rålambsvägen 23</name>
+  <cmt>Servicetid torsdag 00:00 - 06:00 utom under tiden 15 juni - 15 augusti</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01990</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.332125705350229" lon="18.039831689457259">
+  <name>Kungsholmsgatan 46</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02164</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.335214593316564" lon="18.08589555756226">
+  <name>Grevgatan 38</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01898</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.328525074152054" lon="18.030048306412336">
+  <name>Norr Mälarstrand 76</name>
+  <cmt>Servicetid fredag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02088</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.328690682850251" lon="18.045136513612107">
+  <name>Hantverkargatan 14</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02171</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.346437927107814" lon="18.038710537136719">
+  <name>Hälsingegatan 43</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01904</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.292706213312997" lon="18.081240215796004">
+  <name>Arenavägen 61</name>
+  <cmt>Servicetid måndag 06:00-10:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02102</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.337427664136527" lon="18.071709663860549">
+  <name>Humlegårdsgatan 29</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01483</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.345523185953638" lon="18.057750569474607">
+  <name>Surbrunnsgatan 34A</name>
+  <cmt>Servicetid torsdag 09:00-14:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-02036</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.295312705593808" lon="18.068475186164193">
+  <name>Lindetorpsvägen 7</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel endast besök 0180 2019-05263</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.346115173833134" lon="18.100290940065364">
+  <name>Rindögatan 52</name>
+  <cmt>Servicetid torsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01996</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.327803263514618" lon="18.071615813777157">
+  <name>&lt;Adress saknas&gt;</name>
+  <cmt>Servicetid onsdag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01586</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.328261867175364" lon="18.008891642787848">
+  <name>Stagneliusvägen 29</name>
+  <cmt>Servicetid onsdag 09:00 - 14:00 utom under tiden jämna veckor  1 maj - 31 oktober</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01877</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.402225084503293" lon="17.9444854536851">
+  <name>Danmarksgatan 11</name>
+  <desc>Reserverad p-plats motorcykel 0180 2019-05215</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.308267747771474" lon="18.066665187566482">
+  <name>Ringvägen 89</name>
+  <cmt>Servicetid måndag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01671</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.338491307236552" lon="18.06351910689855">
+  <name>Döbelnsgatan 7</name>
+  <cmt>Servicetid fredag 00:00-06:00</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-01440</desc>
+  <sym>Parking</sym>
+</wpt>
+<wpt lat="59.344385126659617" lon="17.962215217733597">
+  <name>Granbacken 7</name>
+  <cmt>Servicetid fredag 08:00-16:00 1/11 - 15/5</cmt>
+  <desc>Reserverad p-plats motorcykel 0180 2019-03689</desc>
+  <sym>Parking</sym>
+</wpt>
+</gpx>
